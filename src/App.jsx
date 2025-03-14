@@ -1,7 +1,7 @@
 import First from "./Part/First"
 import React, { useState } from 'react'
 import Second from "./Part/Second"
-import Third from "./Part/third"
+import Third from "./Part/Third"
 import Fourth from "./Part/Fourth"
 import imgBg from './assets/tasteful-recipes.jpg'
 import tastyimg from './assets/tasty.jpg'
